@@ -1,3 +1,4 @@
 打开文件复制下配置
 粘贴到vscode的JSON配置中
-见证奇迹的时刻
+安装Prettier插件、Vetur
+eslint
